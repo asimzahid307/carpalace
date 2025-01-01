@@ -1,0 +1,5 @@
+.hero-wrapper::before{
+    background-image: url("./Assets/images/hero.jpg");
+    background-size: cover;
+    opacity: 0.5;
+}
